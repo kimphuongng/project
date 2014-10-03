@@ -2,6 +2,8 @@
 
 ## High-level view of the system: 
  
+ ![alt text](/path/to/img.jpg "High-level") 
+ 
 ## Main modules and their function represented: 
 •	Server: 
   o	Receive and store users data and setting from smartphone
