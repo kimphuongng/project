@@ -2,7 +2,7 @@
 
 ## High-level view of the system: 
  
- ![alt text](/path/to/img.jpg "High-level") 
+ ![alt text](http://users.metropolia.fi/~kimn/Software%20Engineering/High-levelOverview.png "High-level") 
  
 ## Main modules and their function represented: 
 •	Server: 
