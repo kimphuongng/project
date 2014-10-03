@@ -1,6 +1,6 @@
 #User interface
 
-##What are the views / components of the system? What are the functionalities of each view?
+###What are the views / components of the system? What are the functionalities of each view?
 -	Login
 -	Setting
 -	Main screen:
@@ -15,7 +15,7 @@
 -	Profile
 -	Message 
 
-Illustrate each view and what it is used for (Textual explanation ok, no need for pictures!)
+###Illustrate each view and what it is used for (Textual explanation ok, no need for pictures!)
 -	Login : Enter username and password
 -	Setting: Edit profile, select interests, select information to be public, location on/off, button to return to main screen
 -	Main screen: Showing nearby marches and their name, avatar, status, button to connect to other screen.
