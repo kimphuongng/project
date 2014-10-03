@@ -21,3 +21,7 @@ Metropolia Student: As a degree student, I want the software to be easy to learn
 - What can go wrong: Exposure of private information, distraction in class and phone lost leading untargeted group meeting the exchange.
 - What can happen at the same time: A lot of students might update their account or download the application.
 - End State: Students find the right people.
+
+##Use case Flowchart
+
+![Alt text](http://users.metropolia.fi/~kimn/Software%20Engineering/GroupProjectFlowChart.png "Usecase Flowchart")
