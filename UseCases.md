@@ -11,6 +11,9 @@ Exchange student: As an exchange student, I want to make quick friends to share 
 
 Metropolia Student: As a degree student, I want the software to be easy to learn and use and can find exchange student from specific country that I would like to visit.
 
+##User diagram
+![Alt text](http://users.metropolia.fi/~kimn/Software%20Engineering/GroupProjectUserCaseDiagram.png "Usecase Diagram")
+
 ##User scenario:
 
 - Initial state: First user Install application
