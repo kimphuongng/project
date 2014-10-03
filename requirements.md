@@ -3,6 +3,9 @@
 ###Functional requirements
 
 ####Utilize indoor positioning system
+		* Wi-Fi failure: 
+		 * Server failure: 
+		 * Indoor Positioning System failure
 
 	 * Work on Android (ver. ), iOS (ver…), WinPhone  (ver…)
 	 * Function over Wi-Fi network
@@ -40,10 +43,7 @@
 	
 ####What other non-functional requirements should be documented?
 * Wi-Fi failure: 
-	 * Server failure: 
-	 * Indoor Positioning System failure
-
-	*It is a free software, anyone could run, copy, distribute, study, change and improve
+	 * It is a free software, anyone could run, copy, distribute, study, change and improve
 	
 ####What kind of metrics you should use to guarantee unambiguity?
 
