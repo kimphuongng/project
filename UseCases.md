@@ -13,8 +13,8 @@ Metropolia Student: As a degree student, I want the software to be easy to learn
 
 ##User scenario:
 
-Initial state: First user Install application
-Normal flow: Register with student ID, List hobbies and interest, select information to share public.
-What can go wrong: Exposure of private information, distraction in class and phone lost leading untargeted group meeting the exchange.
-What can happen at the same time: A lot of students might update their account or download the application.
-End State: Students find the right people.
+- Initial state: First user Install application
+- Normal flow: Register with student ID, List hobbies and interest, select information to share public.
+- What can go wrong: Exposure of private information, distraction in class and phone lost leading untargeted group meeting the exchange.
+- What can happen at the same time: A lot of students might update their account or download the application.
+- End State: Students find the right people.
