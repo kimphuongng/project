@@ -3,10 +3,7 @@
 ###Functional requirements
 
 ####Utilize indoor positioning system
-		* Wi-Fi failure: 
-		 * Server failure: 
-		 * Indoor Positioning System failure
-
+		
 	 * Work on Android (ver. ), iOS (ver…), WinPhone  (ver…)
 	 * Function over Wi-Fi network
 	 * Send push-notifications when a match is nearby.
