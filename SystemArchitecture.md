@@ -6,13 +6,14 @@
  
  
 ## Main modules and their function represented: 
-* ###Server: 
+
+1. ###Server: 
 - Receive and store users data and setting from smartphone
 - Processing the locations
 - Matching people with similar interests
 - Allow Admin PC to change setting and send broad-cast notifications
  
-* ###Indoor Positioning: 
+2. ###Indoor Positioning: 
 - Inform the smartphone its location
 
 * ###Smartphone:
@@ -23,13 +24,13 @@
 - Send user’s setting and information to server
 - Push notification
 
-* ###Admin PC:
+3. ###Admin PC:
 - Allow Administrator to interact with Server
 
-* ###Administrator:
+4. ###Administrator:
 - In charge of server setting
 - Send broad-cast notification
 
-* ###Student:
+5. ###Student:
 - Received data presented by the Smartphone
 - Change personal information and setting 
