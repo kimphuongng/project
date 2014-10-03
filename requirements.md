@@ -42,10 +42,10 @@
 	 
 	
 ####What other non-functional requirements should be documented?
-* Wi-Fi failure: 
+ 
 	 * It is a free software, anyone could run, copy, distribute, study, change and improve
 	
 ####What kind of metrics you should use to guarantee unambiguity?
-
-	*Using similar terms as popular social network (example Facebook)
+	* Using similar terms as popular social network (example Facebook)
+	
 
