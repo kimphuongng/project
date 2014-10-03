@@ -4,13 +4,13 @@
 -	Login
 -	Setting
 -	Main screen:
-    o	Marches information
-        	Avatar
-        	Status
-        	Name
-o	Logout Button
-o	Message Button
-o	Setting Button
+    -   Marches information
+        -   Avatar
+        -   Status
+        -   Name
+    -	Logout Button
+    -	Message Button
+    - 	Setting Button
 -	Map
 -	Profile
 -	Message 
