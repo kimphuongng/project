@@ -30,7 +30,8 @@
 		
 ####Efficiency: there are multiple people using your system. How do ensure that the system is efficient enough? What metrics would you use?
 
-		*Use indoor positioning system to perform a study of what is the peak number of students to be on campus at the same time. 
+		*Use indoor positioning system to perform a study of what is the peak number 
+		of students to be on campus at the same time. 
 		
 		*Design server to be cable of handing 150% load of that peak number.
 	
