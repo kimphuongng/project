@@ -1,4 +1,4 @@
-. Project management, self-reflection
+#Project management, self-reflection
 
 The idea of the application took 2 hours. The time that we worked on this project for each person is 6 hours and total is 18 hours.
 
