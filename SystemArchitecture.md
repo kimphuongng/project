@@ -1,8 +1,8 @@
 # System architecture:
 
-High-level view of the system: 
+## High-level view of the system: 
  
-Main modules and their function represented: 
+## Main modules and their function represented: 
 •	Server: 
   o	Receive and store users data and setting from smartphone
   o	Processing the locations
