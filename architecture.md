@@ -4,12 +4,12 @@
 
 ####Utilize indoor positioning system
 
-	*Work on Android (ver. ), iOS (ver…), WinPhone  (ver…)
-	*Function over Wi-Fi network
-	*Send push-notifications when a match is nearby.
-	*Metropolia map
-	*Send and receive message
-	*Share current status
+	* Work on Android (ver. ), iOS (ver…), WinPhone  (ver…)
+	* Function over Wi-Fi network
+	* Send push-notifications when a match is nearby.
+	* Metropolia map
+	* Send and receive message
+	* Share current status
 
 ####Non-functional system requirements
 
