@@ -1,5 +1,4 @@
-System architecture:
-
+# System architecture:
 
 High-level view of the system: 
  
