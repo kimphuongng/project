@@ -1,4 +1,4 @@
-1.	Introduction
+#	Introduction
 
 This is a project for Software Engineering course, fall 2014, Metropolia University of Applied Sciences. We are required to create a software requirements specification for an application utilizing indoor positioning system. Our group has chosen a mobile application that would be helpful to exchange students. The name of our application is hobbies mobile application. The application will work hand in hand with Metropolia’s tuubi as the information of the student will be first taken from the tuubi system. The student will be informed of this application on date of orientation. 
 
